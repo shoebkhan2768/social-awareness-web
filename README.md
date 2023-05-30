@@ -10,7 +10,7 @@
   </head>
   <body>
     <div id="heading">
-      <div class="logo"><a href="#"><img src="https://federation.edu.au/__data/assets/image/0011/466868/FED_reverse_logo_large.png"></a>
+      <div class="logo"><a href="#"><image1.jpg"></a>
       </div>
       <header>
         <h1>Social awareness web application </h1>
