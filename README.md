@@ -37,26 +37,16 @@
 <body>
   <div class="header">
     <h1>Social Awareness Web Application</h1>
-  </div>
-  <div class="navigation">
-    <a href="#">Homepage</a>
-    <a href="#">Login</a>
-    <a href="#">Logout</a>
-    <a href="#">Registration of a new account</a>
+    <div class="navigation">
+      <a href="#">Login</a>
+      <a href="#">Logout</a>
+      <a href="#">Registration of a new account</a>
+    </div>
   </div>
   <div class="content">
     <!-- Add the content for each section/page here -->
     <h2>Homepage</h2>
     <p>Content for the homepage goes here...</p>
-    
-    <h2>Login</h2>
-    <p>Content for the login page goes here...</p>
-    
-    <h2>Logout</h2>
-    <p>Content for the logout page goes here...</p>
-    
-    <h2>Registration of a new account</h2>
-    <p>Content for the registration page goes here...</p>
   </div>
 </body>
 </html>
