@@ -10,11 +10,11 @@
   </head>
   <body>
     <div id="heading">
-      <div class="logo"><a href="#"><image1.jpg.jpg"></a>
+      <div class="logo"><a href="#"><image2.jpg.jpg"></a>
       </div>
       <header>
-        <h1>Social awareness web application </h1>
-        <h2>Social awareness web application</h2>
+        <h1>Social awareness </h1>
+        <h2> web application</h2>
       </header>
       
     </div>
@@ -82,15 +82,11 @@
 	
 		<div class="footer-social">
 		<ul>
-			<li><a href="https://www.facebook.com/FedUniAustralia" target="blank"><i class="fa fa-facebook"></i></a></li>
-			<li><a href="https://www.instagram.com/feduniaustralia/"><i class="fa fa-instagram"></i></a></li>
-			<li><a href="https://twitter.com/FedUniAustralia"><i class="fa fa-twitter"></i></a></li>
-			<li><a href="https://www.linkedin.com/school/federation-university-australia"><i class="fa fa-linkedin"></i></a></li>
-			<li><a href="https://www.youtube.com/channel/UCZ77FiM8GrdrreLaSdGWebQ"><i class="fa fa-youtube"></i></a></li>
+			
 		</ul>
 		</div>
 		<div class="footer-text">
-		<p><a href="https://federation.edu.au/copyright-at-feduni" style="color:#fff">Copyright</a> | <a href="https://federation.edu.au/privacy" style="color:#fff"> Privacy</a> | <a href="https://federation.edu.au/accessibility" style="color:#fff"> Accessibility</a> | Copyright Federation University Australia | ABN 51 818 692 256</p>
+		<p><a href="Social awareness" style="color:#fff">Copyright</a> | <a href="Social awareness" style="color:#fff"> Privacy</a> | <a href="Social awareness" style="color:#fff"> Accessibility</a> | Copyright Social awareness web application</p>
 		</div>
 	</div>
  </body>
