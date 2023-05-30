@@ -18,7 +18,17 @@
     .header h1 {
       margin: 0;
     }
-    .description {
+    .navigation {
+      background-color: #f4f4f4;
+      padding: 10px;
+      text-align: center;
+    }
+    .navigation a {
+      margin: 10px;
+      text-decoration: none;
+      color: #333;
+    }
+    .content {
       padding: 20px;
       text-align: center;
     }
@@ -28,10 +38,25 @@
   <div class="header">
     <h1>Social Awareness Web Application</h1>
   </div>
-  <div class="description">
-    <h2>Web Development</h2>
-    <p>Social awareness web application will be designed for Advanced Consulting Services, which will give users a platform to raise awareness about social causes and bring about the change in the world that they wish to see.</p>
+  <div class="navigation">
+    <a href="#">Homepage</a>
+    <a href="#">Login</a>
+    <a href="#">Logout</a>
+    <a href="#">Registration of a new account</a>
   </div>
-  <!-- Add the rest of your page content here -->
+  <div class="content">
+    <!-- Add the content for each section/page here -->
+    <h2>Homepage</h2>
+    <p>Content for the homepage goes here...</p>
+    
+    <h2>Login</h2>
+    <p>Content for the login page goes here...</p>
+    
+    <h2>Logout</h2>
+    <p>Content for the logout page goes here...</p>
+    
+    <h2>Registration of a new account</h2>
+    <p>Content for the registration page goes here...</p>
+  </div>
 </body>
 </html>
