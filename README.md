@@ -60,7 +60,7 @@
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sodales consectetur sem, at varius diam rutrum in. Fusce ullamcorper ante vitae tellus euismod tincidunt.</p>
     <div class="image-container">
-      <img src="image2.jpg" alt="Image 2">
+      <img src="image2.jpg.jpg" alt="Image 2">
     </div>
     <p>Sed posuere, dolor non condimentum dignissim, leo turpis ullamcorper erat, sit amet scelerisque lorem felis ut nunc.</p>
   </div>
