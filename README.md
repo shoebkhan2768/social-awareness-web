@@ -10,7 +10,7 @@
   </head>
   <body>
     <div id="heading">
-      <div class="logo"><a href="#"><image1.jpg"></a>
+      <div class="logo"><a href="#"><image1.jpg.jpg"></a>
       </div>
       <header>
         <h1>Social awareness web application </h1>
