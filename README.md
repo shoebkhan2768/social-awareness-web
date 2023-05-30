@@ -56,7 +56,7 @@
     <!-- Add the content for each section/page here -->
     <h2>Homepage</h2>
     <div class="image-container">
-      <img src="image1.jpg" alt="Image 1">
+      <img src="image1.jpg.jpg" alt="Image 1">
     </div>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sodales consectetur sem, at varius diam rutrum in. Fusce ullamcorper ante vitae tellus euismod tincidunt.</p>
     <div class="image-container">
