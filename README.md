@@ -1,4 +1,3 @@
-# socialawarenessweb
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,20 +22,6 @@
       padding: 20px;
       text-align: center;
     }
-    .navigation {
-      background-color: #f4f4f4;
-      padding: 10px;
-      text-align: center;
-    }
-    .navigation a {
-      margin: 10px;
-      text-decoration: none;
-      color: #333;
-    }
-    .content {
-      padding: 20px;
-      text-align: center;
-    }
   </style>
 </head>
 <body>
@@ -47,14 +32,6 @@
     <h2>Web Development</h2>
     <p>Social awareness web application will be designed for Advanced Consulting Services, which will give users a platform to raise awareness about social causes and bring about the change in the world that they wish to see.</p>
   </div>
-  <div class="navigation">
-    <a href="#">Homepage via campaigns</a>
-    <a href="#">Login</a>
-    <a href="#">Logout</a>
-    <a href="#">Registration of a new account</a>
-  </div>
-  <div class="content">
-    <!-- Add the rest of your page content here -->
-  </div>
+  <!-- Add the rest of your page content here -->
 </body>
 </html>
